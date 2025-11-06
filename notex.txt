@@ -1,0 +1,17 @@
+conda create -n cv python=3.12 -y
+conda activate cv
+
+
+pip install opencv-python ultralytics numpy  
+
+# full_image
+880,600
+880,390
+1185,365
+1490,600
+
+# 
+460,400
+700,400
+460,280
+625,280

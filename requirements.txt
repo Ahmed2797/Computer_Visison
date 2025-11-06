@@ -1,0 +1,13 @@
+# python==3.12
+numpy 
+pandas 
+opencv-python==4.12.0.88
+ultralytics
+cvzone
+sort-tracker
+filterpy== 1.4.5
+scikit-image==0.25.2 
+lap==0.4.0
+yolox
+
+
