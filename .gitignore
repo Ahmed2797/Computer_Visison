@@ -8,6 +8,5 @@ yolov8n.pt
 yolov8s.pt 
 cv 
 __pycache__
-app.py 
-main.py 
-test.py
+
+sort.py
